@@ -1,4 +1,4 @@
-**pRIMER PASO**
+**PRIMEROS PASOS**
 npm i o npm install --para descargar las dependencias
 npm run dev  --Para correr en desarrollo
  
