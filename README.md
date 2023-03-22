@@ -1,10 +1,12 @@
+**pRIMER PASO**
+npm i o npm install --para descargar las dependencias
+npm run dev  --Para correr en desarrollo
+ 
 Para crear localmente se necesita la base de datos
 
+docker-compose up -d *El -d,significa detached
 
-
-# docker-compose up -d *El -d,significa detached
-
-# MongoDB URL Local: mongodb://localhost:27018/teslodb
+MongoDB URL Local: mongodb://localhost:27018/teslodb
 
 Configurar las variables de entorno
 Renombrar el archivo .env.template
